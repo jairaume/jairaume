@@ -13,7 +13,7 @@ I am Jérôme, a Master 2 student at **JUNIA ISEN Lille** studying **software en
 I am passionate about all-things **music** and **sound** !
 
 <div align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/jeromerascle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
