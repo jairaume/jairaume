@@ -24,35 +24,34 @@ I am passionate about all-things **music** and **sound** !
 
 ### General
 
-[![My General Skills](https://skillicons.dev/icons?i=python,tensorflow,cpp,cs,c,java,matlab)](https://skillicons.dev)
+[![My General Skills](https://skillicons.dev/icons?i=python,nodejs,cs,java,matlab)](https://skillicons.dev)
 
 -   Python (Pandas, Tensorflow, Keras...)
+-   Node JS
 -   C / C++ / C#
 -   Java
 -   Matlab
 
 ### Mobile
 
-[![My Mobile Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter)](https://skillicons.dev)
+[![My Mobile Skills](https://skillicons.dev/icons?i=kotlin,flutter)](https://skillicons.dev)
 
 -   Android (Kotlin)
 -   Flutter
 
 ### Web
 
-[![My Web Skills](https://skillicons.dev/icons?i=scss,tailwind,react,nuxt,typescript,postgresql,firebase,php)](https://skillicons.dev)
+[![My Web Skills](https://skillicons.dev/icons?i=tailwind,react,nuxt,typescript,postgresql,php)](https://skillicons.dev)
 
 -   HTML / CSS / SCSS / Tailwind
--   React & Nuxt3
+-   React / Nuxt3
 -   Javascript / Typescript
--   NodeJS
 -   PostgreSQL / MySQL ...
--   Firebase
 -   PHP
 
 ### Other
 
-[![My Other Skills](https://skillicons.dev/icons?i=git,github,linux,raspberrypi,arduino)](https://skillicons.dev)
+[![My Other Skills](https://skillicons.dev/icons?i=git,raspberrypi,arduino)](https://skillicons.dev)
 
 ## 👾 Software
 
