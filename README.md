@@ -9,7 +9,7 @@
 
 # 👋 Hi there !
 
-I am Jérôme, a Master 2 student at **JUNIA ISEN Lille** studying **software engineering**. 
+I am Jérôme, a full-stack developer at **Music Story**. 
 I am passionate about all-things **music** and **sound** !
 
 <div align="center" style="displaay:flex;>
@@ -37,7 +37,7 @@ I am passionate about all-things **music** and **sound** !
 
 ### Mobile
 
-[![My Mobile Skills](https://skillicons.dev/icons?i=react,kotlin,flutter)](https://skillicons.dev)
+[![My Mobile Skills](https://skillicons.dev/icons?i=react,kotlin,flutter,swift)](https://skillicons.dev)
 
 -   React Native (Expo)
 -   Android (Kotlin)
@@ -67,7 +67,7 @@ I am passionate about all-things **music** and **sound** !
 -   **Design** : [Figma](https://figma.com)
 -   **Virtualization** : [Docker](https://www.docker.com/)
 -   **Browser** : [Arc](https://arc.net/)
--   **Terminal** : [iTerm2](https://iterm2.com/) (with [Oh My Zsh](https://ohmyz.sh/))
+-   **Terminal** : [iTerm2](https://iterm2.com/)
 -   **OS** : [MacOS](https://www.apple.com/macos/)
 
 ## 📈 Stats
